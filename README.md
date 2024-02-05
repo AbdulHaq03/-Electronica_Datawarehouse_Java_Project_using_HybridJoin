@@ -7,11 +7,11 @@ To enable practical analysis of shopping behavior, the establishment of a near-r
 Incorporating the enrichment functionality within the transformation phase of ETL demands a robust join operator. Among the various algorithms available for this purpose, the Hybrid Join stands out as the most widely adopted, providing an effective means to integrate disparate datasets. In our project, we meticulously implemented the Hybrid Join algorithm using Java Eclipse, ensuring seamless integration and transformation of data streams within the Electronica Business chain's Data Warehouse environment.
 
 <h1>Important Instructions:</h1>
-Step 1 To Open the project go to eclipse and click the file tab on the left corner \
-Step 2 create a new folder in which we will import the project \
-Step 3 import the folder given from downloading my project its named as ETL_project into that new folder \
-Step 4 Every setting will be inside the folder now in which we imported \
-Step 5 connect the referenced libraries we need by adding in our path \
-Note: Keep in mind that the java project will only run if you have the referenced libraries I have given you have to give path to them as well. \
-Step 6 Run the Project \
+<br>Step 1 To Open the project go to eclipse and click the file tab on the left corner</br>
+<br>Step 2 create a new folder in which we will import the project</br>
+<br>Step 3 import the folder given from downloading my project its named as ETL_project into that new folder</br>
+<br>Step 4 Every setting will be inside the folder now in which we imported</br>
+<br>Step 5 connect the referenced libraries we need by adding in our path</br>
+<br>Note: Keep in mind that the java project will only run if you have the referenced libraries I have given you have to give path to them as well.</br>
+<br>Step 6 Run the Project</br>
 	
