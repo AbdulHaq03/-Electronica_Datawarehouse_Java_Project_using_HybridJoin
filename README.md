@@ -9,7 +9,7 @@ Incorporating the enrichment functionality within the transformation phase of ET
 <h1>Important Instructions:</h1>
 <br>Step 1 To Open the project go to eclipse and click the file tab on the left corner</br>
 <br>Step 2 create a new folder in which we will import the project</br>
-<br>Step 3 import the folder given from downloading my project its named as ETL_project into that new folder</br>
+<br>Step 3 import the folder given from downloading my project its named as DWH_Project into that new folder</br>
 <br>Step 4 Every setting will be inside the folder now in which we imported</br>
 <br>Step 5 connect the referenced libraries we need by adding in our path</br>
 <br>Note: Keep in mind that the java project will only run if you have the referenced libraries I have given you have to give path to them as well.</br>
